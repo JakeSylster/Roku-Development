@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="searchScreen" extends="Group">
+    <interface>
+        
+    </interface>
+    <script type="text/brightscript" uri="searchScreen.brs" />
+    <children>
+        <MiniKeyboard
+            id = "searchMiniKeyboard"
+            translation = "[50,200]"
+        />
+    </children>
+    
+</component>

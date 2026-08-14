@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="serverTask" extends="Task">
+    <interface>
+        <field id="responseData" type="assocarray" />
+    </interface>
+
+    <script type="text/brightscript" uri="serverTask.brs" />
+    
+</component>
